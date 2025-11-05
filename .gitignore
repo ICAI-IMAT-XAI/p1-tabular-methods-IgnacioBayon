@@ -11,3 +11,8 @@ wheels/
 
 .vscode
 .pytest_cache/
+
+
+# Custom ignores
+notebook/tabular_explanations.pdf
+notebook/exercise.pdf
